@@ -1,0 +1,40 @@
+=========================================
+PHISHING EMAIL SAMPLE — FOR ANALYSIS ONLY
+Educational Use | ElevateLabs Internship
+=========================================
+
+From: order-confirm@amaz0n-notify.com
+Reply-To: support@amazon-help-desk.net
+To: victim@gmail.com
+Subject: [ACTION REQUIRED] Your Amazon Order #112-9384756 Has Been Flagged
+Date: Sun, 01 Jun 2026 03:22:17 +0000
+Received: from smtp.bulk-notify-server.cn (unknown [45.33.72.100])
+          by mx.gmail.com with ESMTP id abc123
+X-Mailer: SendGrid v4.1 (bulk mailer)
+Message-ID: <ord992838@amaz0n-notify.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+------ EMAIL BODY ------
+
+Dear Amazon Customer,
+
+We have detacted suspicious activity on your recent order.
+Your order #112-9384756 has been temporarly HOLD and will be
+cancelled unless you confirms your payment details immediatley.
+
+Verify Your Account Now: http://amazon-order-verify.cc/login?ref=target_uid_44821
+
+If you dont act within 12 hours, you're account will be permanently
+suspended and you will loose all Amazon Prime benifits.
+
+For questions, contact are support team at support@amazon-help-desk.net
+
+Regards,
+Amazon Customer Security Team
+Amazon.com, Inc., 410 Terry Ave N, Seattle, WA
+
+=========================================
+NOTE: This is a FAKE email created for
+cybersecurity training and analysis only.
+=========================================

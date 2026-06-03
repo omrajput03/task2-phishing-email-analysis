@@ -1,6 +1,6 @@
-# Task 2 — Analyze a Phishing Email Sample
+Analyze a Phishing Email Sample
 
-**Cyber Security Internship | ElevateLabs**
+
 
 ---
 
@@ -120,13 +120,13 @@ This is a **confirmed credential-harvesting phishing email**. All 8 analysis ste
 
 ## Recommended Actions
 
-- ❌ Do NOT click any links
-- ❌ Do NOT enter credentials on linked pages
-- ✅ Report as phishing in Gmail (⋮ → Report Phishing)
-- ✅ Forward to Amazon: `stop-spoofing@amazon.com`
-- ✅ Submit origin IP to AbuseIPDB
-- ✅ Delete the email immediately
-- ✅ If credentials were entered: change password + enable 2FA immediately
+-  Do NOT click any links
+-  Do NOT enter credentials on linked pages
+-  Report as phishing in Gmail (⋮ → Report Phishing)
+-  Forward to Amazon: `stop-spoofing@amazon.com`
+-  Submit origin IP to AbuseIPDB
+-  Delete the email immediately
+-  If credentials were entered: change password + enable 2FA immediately
 
 ---
 

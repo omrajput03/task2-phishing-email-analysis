@@ -1,6 +1,5 @@
 =========================================
 PHISHING EMAIL SAMPLE — FOR ANALYSIS ONLY
-Educational Use | ElevateLabs Internship
 =========================================
 
 From: order-confirm@amaz0n-notify.com
